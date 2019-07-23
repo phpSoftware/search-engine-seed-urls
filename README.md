@@ -7,7 +7,6 @@ How to Use
 ----------
 
 ```php
-
 unZIP and have fun!
 
 ```
