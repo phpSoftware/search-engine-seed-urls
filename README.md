@@ -1,5 +1,5 @@
-Search Engine Seeds
-===================
+Search Engine Seed URLs
+=======================
 
 > Seed Sites for Search Engine Web Crawler
 
