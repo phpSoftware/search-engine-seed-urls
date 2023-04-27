@@ -28,4 +28,4 @@ Hint
 
 Use [https://pinetools.com/split-files](https://pinetools.com/split-files) to split zip file into parts smaller than 25MB for github :smile:
 
-###### powered since 2019 by [phpSoftware](https://github.com/phpSoftware/)
+###### powered since 2019 by [phpSoftware](https://vangato.tumblr.com)
